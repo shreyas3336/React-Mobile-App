@@ -1,0 +1,2 @@
+export const web3authClienID =
+  "BMyfRAxH_UDyXJDjSap4pIYTDnt9drOqLBr7x-4L5vQ50Bm1oxfWUEAw0HfOtlmCkOthrr_yjQ3nmH3NanhdBuY";
